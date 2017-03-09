@@ -1,5 +1,5 @@
 {
-  "name": "@giuliandrimba/dom-ready",
+  "name": "@doublepi/dom-ready",
   "version": "1.0.0",
   "description": "Dom ready event",
   "main": "index.js",
@@ -12,6 +12,7 @@
   },
   "keywords": [
     "dom",
+    "ready",
     "event",
     "javascript"
   ],
