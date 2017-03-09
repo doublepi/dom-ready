@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-$ npm install @giuliandrimba/dom-ready
+$ npm install @doublepi/dom-ready
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "@doublepi/dom-ready",
+  "name": "@giuliandrimba/dom-ready",
   "version": "1.0.0",
   "description": "Dom ready event",
   "main": "index.js",
@@ -11,9 +11,9 @@
     "url": "git+https://github.com/doublepi/dom-ready.git"
   },
   "keywords": [
-    "javascript",
-    "ready",
-    "dom"
+    "dom",
+    "event",
+    "javascript"
   ],
   "author": "Giulian Drimba",
   "license": "MIT",
