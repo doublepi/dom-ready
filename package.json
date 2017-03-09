@@ -1,0 +1,24 @@
+{
+  "name": "@doublepi/dom-ready",
+  "version": "1.0.0",
+  "description": "Dom ready event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doublepi/dom-ready.git"
+  },
+  "keywords": [
+    "javascript",
+    "ready",
+    "dom"
+  ],
+  "author": "Giulian Drimba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doublepi/dom-ready/issues"
+  },
+  "homepage": "https://github.com/doublepi/dom-ready#readme"
+}
