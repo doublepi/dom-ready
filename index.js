@@ -1,4 +1,4 @@
-export default function(fn) {
+module.exports = function(fn) {
   if (document.readyState != 'loading'){
     fn();
   } else {
